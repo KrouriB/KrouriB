@@ -20,9 +20,9 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <div align="right">
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krourib&" alt="krourib" /></p>
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krourib&" alt="krourib" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=krourib&show_icons=true&locale=en&layout=compact" alt="krourib" /></p>
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=krourib&show_icons=true&locale=en&layout=compact" alt="krourib" /></p>
 </div>
 <details align="left">
 <summary><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label="></summary>
