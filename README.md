@@ -23,8 +23,6 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krourib&" alt="krourib" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=krourib&show_icons=true&locale=en&layout=compact" alt="krourib" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=krourib&show_icons=true&locale=en" alt="krourib" /></p>
 </div>
 <details align="left">
 <summary><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label="></summary>
