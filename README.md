@@ -31,5 +31,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=krourib&show_icons=true&locale=en" alt="krourib" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=krourib&" alt="krourib" /></p>
 </div>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krourib&" alt="krourib" /></p>
