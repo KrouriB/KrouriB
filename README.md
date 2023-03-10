@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krourib&" alt="krourib" /></p>
 
-<details align="left">
+<details>
 <summary><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label="></summary>
 
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
