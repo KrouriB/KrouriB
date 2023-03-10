@@ -41,7 +41,7 @@
 
 </details>
 
-<div id="img_info">
+<div id="img_info" align="right">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krourib&show_icons=true&locale=en&layout=compact" alt="krourib" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=krourib&show_icons=true&locale=en" alt="krourib" /></p>
