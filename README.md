@@ -30,8 +30,6 @@
 
 </details>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=krourib&show_icons=true&locale=en" alt="krourib" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krourib&" alt="krourib" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=krourib&show_icons=true&locale=en&layout=compact" alt="krourib" /></p>
